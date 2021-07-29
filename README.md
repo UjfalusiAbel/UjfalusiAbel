@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UjfalusiAbel
 - 👀 I’m interested in game creation, machine learning, computer graphics, webGL.
 - 🌱 I’m currently learning Unity, genetic algorithms, neural networks.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Unity projects.
 - 📫 How to reach me ...
 
 <!---
