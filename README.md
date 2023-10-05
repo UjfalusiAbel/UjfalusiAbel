@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @UjfalusiAbel
-- 👀 I’m interested in game creation, machine learning, computer graphics, webGL.
-- 🌱 I’m currently learning Unity, genetic algorithms, neural networks.
-- 💞️ I’m looking to collaborate on Unity projects.
+- 👋 Hi, I’m @UjfalusiAbel, a university student at UBB Cluj Napoca. 
+- 👀 I’m interested in computer graphics programming, game engines, system programming, computer architecture and artificial intelligence.
+- 🌱 I’m currently learning C++ skills, system level programming and computer architecture
+- 💞️ I’m looking to collaborate on game engine projects.
 - 📫 How to reach me: email abelujfalusi4@gmail.com
 
 <!---
