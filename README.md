@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UjfalusiAbel, a university student at UBB Cluj Napoca. 
-- 👀 I’m interested in computer graphics programming, game engines, embedded system programming, computer architecture and artificial intelligence.
+- 👋 Hi, I’m @UjfalusiAbel, an ambitious softwar developer
+- 👀 I’m interested in computer graphics programming, game engines, embedded system programming, computer architecture and high performance C++ desjtio apps.
 - 🌱 I’m currently learning C++ skills, embedded systems and computer architecture
 - 📫 How to reach me: email abelujfalusi4@gmail.com
 
